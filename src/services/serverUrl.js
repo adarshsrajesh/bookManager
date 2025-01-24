@@ -1,2 +1,2 @@
-const serverUrl = 'https://bookmanagerserver.onrender.com/'
+const serverUrl = 'https://bookmanagerserver.onrender.com'
 export default serverUrl
